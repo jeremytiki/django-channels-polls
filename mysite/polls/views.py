@@ -1,4 +1,4 @@
-from django.http import import HttpResponse
+from django.http import HttpResponse
 
 
 def index(request):
